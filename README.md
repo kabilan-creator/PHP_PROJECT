@@ -1,7 +1,8 @@
 # PHP CRUD Application with Email Account Activation and Password Reset
 
 ## Overview
-This project is a PHP-based web application that provides basic CRUD (Create, Read, Update, Delete) operations and user account management features, including email-based account activation and password reset. It demonstrates secure coding practices and integrates common features in modern web applications.
+This project is a PHP-based web application that provides basic CRUD (Create, Read, Update, Delete) operations and user account management features, including email-based account activation and password reset. It 
+ demonstrates secure coding practices and integrates common features in modern web applications.
 
 ---
 
