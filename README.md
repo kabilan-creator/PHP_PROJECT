@@ -47,7 +47,7 @@ This project is a PHP-based web application that provides basic CRUD (Create, Re
 - MySQL or MariaDB database
 - Web server (e.g., Apache or Nginx)
 - Composer installed for dependency management
-**SQL database**
+### SQL database
 CREATE TABLE users 
     AID INT(11) AUTO_INCREMENT PRIMARY KEY, -- Auto-incrementing unique ID for each user
     NAME VARCHAR(150) NOT NULL,             -- User's name
